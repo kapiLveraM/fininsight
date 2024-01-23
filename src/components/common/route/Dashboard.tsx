@@ -6,6 +6,7 @@ const Dashboard = () => {
     <Routes>
       <Route path="/dashboard" element={<Dashboard />} />
       <Route path="/dashboard/details" element={<Details />} />
+      
     </Routes>
   );
 };

@@ -1,5 +1,9 @@
+import Candlestick from "../../components/dashboards/details/thisMonthcandlestick/Candlestick";
+
 const Details = () => {
-  return <div>Detailssss</div>;
+  return <>
+  <Candlestick/>
+  </>;
 };
 
 export default Details;
