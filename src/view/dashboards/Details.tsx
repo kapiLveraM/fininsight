@@ -1,8 +1,8 @@
-import Candlestick from "../../components/dashboards/details/thisMonthcandlestick/Candlestick";
+import SummeryLightList from "../../components/dashboards/details/SummeryLightList";
 
 const Details = () => {
   return <>
-  <Candlestick/>
+  <SummeryLightList/>
   </>;
 };
 
